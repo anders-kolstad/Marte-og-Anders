@@ -20,8 +20,6 @@ jobs:
         with:
           r-version: "4.3"
 
-      - uses: r-lib/actions/setup-renv@v2
-
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
