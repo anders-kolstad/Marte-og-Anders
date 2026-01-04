@@ -1,0 +1,82 @@
+---
+title: "Marte og Anders' bryllup"
+format: 
+  dashboard:
+    orientation: rows
+lightbox: auto
+---
+
+# Velkommen
+
+
+## Row 
+### Column {width="50%"}
+
+Velkommen til bryllupet til Marte og Anders!
+
+Denne nettsiden oppdateres med nyttig informasjon om festen og alt annet rundt bryllupet.
+
+
+*Korte fakta:*
+
+**Tid**: 23. mai 2026 kl 13:00. Middag ca. kl 16:00. Festen varer til kl 02:00.
+
+**Sted**: Ferstad gård, Trondheim.
+
+**RSVP**: Svar ønskes innen .... Meld samtidig ifra om allergier.
+
+### Column {width="50%"}
+
+**Bilder**. Klikk for å åpne.
+
+![](images/IMG_1973.JPG){group="par" description="Blåbærbilde. Tatt sensommeren 2014 på Ås, rett etter at Marte og Anders møttes."}
+
+![](images/karusell/DSC03679.jpg){group="par"}
+
+![](images/karusell/20180713_213854.jpg){group="par"}
+
+![](images/karusell/20250720_195046.jpg){group="par"}
+
+![](images/karusell/20250729_121836.jpg){group="par"}
+
+
+
+
+
+
+
+# Lokalet
+
+## Row
+
+```{r}
+#| title: "Kart"
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>% # Add default OpenStreetMap map tiles
+  addMarkers(lat=63.4002449379497, lng=10.351513488075847, popup="Ferstad gård") |>
+  addMarkers(lat=63.39882797941568, lng=10.310960484775396, popup="Huset vårt")
+```
+
+## Row
+
+### Column {width="50%"}
+Bryllupet holdes på Ferstad Gård på Byåsen i Trondheim. Gården er lett tilgjengelig via trikken som går mellom Ila og Lian. Trikkestoppet heter Ferstad.
+
+
+
+### Column {width="50%"}
+
+![](images/ferstad.jpg)
+
+<https://ferstadgaard.no/>
+
+
+# Fredagen
+
+# Søndagen
+
+# Overnatting og transport
+
+# Gaveønsker
