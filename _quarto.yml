@@ -1,5 +1,7 @@
 project:
   type: website
+website:
+  site-url: https://anders-kolstad.github.io/Marte-og-Anders/
 
 
 format:
@@ -7,6 +9,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
 
 
 
