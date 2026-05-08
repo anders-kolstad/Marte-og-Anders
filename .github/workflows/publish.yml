@@ -29,10 +29,17 @@ jobs:
             libgeos-dev \
             libproj-dev \
             libpng-dev
-            
-      - name: Install R packages
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::knitr
+            any::rmarkdown
+            any::leaflet
+
+      - name: Check R packages
         run: |
-          Rscript -e 'install.packages(c("knitr","rmarkdown","leaflet"), repos="https://cloud.r-project.org")'
+          Rscript -e 'print(.libPaths()); stopifnot(requireNamespace("rmarkdown", quietly = TRUE))'
 
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
