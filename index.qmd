@@ -18,9 +18,9 @@ Denne nettsiden oppdateres med nyttig informasjon om festen og alt annet rundt b
 
 *SISTE NYTT*
 
-Vi skal flytte! Les mer under [Om oss](@sec-oss).
+Vi skal flytte! Vi har kjøpt oss et lite småbruk på Fåvang. Se bilde under 'Om oss'.
 
-Vi fått skrevet inn noen [gaveønsker](@sec-gaver). 
+Vi har også fått skrevet inn noen gaveønsker. 
 
 Tid for seremonien er flyttet fra 13:00 til 15:00
 
@@ -45,7 +45,7 @@ Tid for seremonien er flyttet fra 13:00 til 15:00
 
 Marte og Anders møttes under studiene på Ås, i 2013. Nærmere bestemt under et plantekurs på Kittilbu i Gausdal. 
 
-![](images/IMG_1973.JPG){width="50%" group="par" description="Blåbærbilde. Vårt første "parbilde", tatt sensommeren 2014 på Ås, rett etter at vi møttes."}
+![](images/IMG_1973.JPG){width="50%" group="par" description="Blåbærbilde. Vårt første 'parbilde, tatt sensommeren 2014 på Ås, rett etter at vi møttes."}
 
 *Blåbærbildet. Vårt første "parbilde", tatt sensommeren 2014 på Ås, rett etter at vi møttes.*
 
