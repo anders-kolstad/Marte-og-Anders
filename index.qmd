@@ -18,7 +18,10 @@ Denne nettsiden oppdateres med nyttig informasjon om festen og alt annet rundt b
 
 *SISTE NYTT*
 
-Da har vi fått skrevet inn noen gaveønsker 
+Vi skal flytte! Les mer under [Om oss](@sec-oss).
+
+Vi fått skrevet inn noen [gaveønsker](@sec-gaver). 
+
 Tid for seremonien er flyttet fra 13:00 til 15:00
 
 
@@ -38,7 +41,7 @@ Tid for seremonien er flyttet fra 13:00 til 15:00
 ![](images/karusell/20250729_121836.jpg){group="par"}
 
 
-# Om oss
+# Om oss {#sec-oss}
 
 Marte og Anders møttes under studiene på Ås, i 2013. Nærmere bestemt under et plantekurs på Kittilbu i Gausdal. 
 
@@ -104,6 +107,14 @@ Tradisjon tro dro vi på en ny tur i foreldrepermisjonen. Denne gang til Sør-Eu
 
 <br>
 
+**Vi flytter**. Vi har kjøpt oss et lite småbruk på Fåvang, og flytter dit i sommerferien. Vi gleder oss veldig til dette nye prosjektet og eventyret, men kommer også til å savne Lian og Trondheim.
+
+![](images/hus.png){width="80%" description="Vårt nye hus på Fåvang. Velkommen på besøk!"}
+
+*Vårt nye hus på Fåvang. Velkommen på besøk!*
+
+<br>
+
 ![](images/karusell/20250720_195046.jpg){group="par" description="Brudeparet."}
 
 *Brudeparet.*
@@ -142,7 +153,8 @@ Bryllupet holdes på Ferstad Gård på Byåsen i Trondheim. Gården er lett tilg
 
 # Fredagen
 
-Dagen før bryllupet inviterer vi til en uformell grilling ved Lianvannet. Ved dårlig vær flytter vi inn i hytta som så vidt kan ses ved vannkanten til høyre i bildet. Mer info kommer etter hvert.
+Dagen før bryllupet inviterer vi til en uformell grilling ved Lianvannet fra kl 17. Ta med egen mat og drikke, så stiller vi med grill, salat og potetsalat.
+Ved dårlig vær flytter vi inn i hytta som så vidt kan ses ved vannkanten til høyre i bildet, eventuelt til BUL-hytta som er litt sørre, men ligger litt lengre unna. 
 
 ![](images/lian.jpg){description="Lianvannet"}
 
@@ -151,7 +163,7 @@ Dagen før bryllupet inviterer vi til en uformell grilling ved Lianvannet. Ved d
 
 # Søndagen
 
-Det blir mulig å samles også på søndagen for å spise litt mer kake og sladre litt om kvelden før. Om været holder inviterer vi hjem i hagen på Lian. Mer info kommer. 
+Det blir mulig å samles også på søndagen for å spise litt mer kake og sladre litt om kvelden før. Om været holder inviterer vi hjem i hagen på Lian fra ca kl 13. Send gjerne en melding eller ring Anders på 98862790, så får dere høre hva som skjer :p 
 
 # Overnatting og transport
 
@@ -160,19 +172,19 @@ Ferstad Gård ligger lett tilgjengelig fra Ferstad trikkestopp og er slik sett t
 For å benytte kollektivtransport i Trondheim, brukes appen AtB.
 Trikkene til Lian går hvert kvarter i rushtid, og hver halvtime på kveldstid. Det går også natt-trikk: kl 01.48 og 02.48 mot sentrum på lørdagen, tilsvarende mot Lian kl. 01.31 og 02.31. 
 
-# Gaveønsker
+# Gaveønsker {#sec-gaver}
 
 Det vi ønsker oss aller mest er å se flest mulig av dere alle sammen i bryllupet. At dere blir med på festen er gave nok!
 
 Så vet vi at noen likevel ønsker å gi oss noe, og derfor har vi laget en liten liste over ting vi ønsker oss. 
 
 - en donasjon til [Leger uten grenser (_doctors without borders_)](https://legerutengrenser.no/). Dette setter vi øverst på lista, og det er noe vi blir veldig glade for!
-- Bidrag til reise. Vi tenker oss ut på en lengre tur igjen om ikke så alt for lenge, men vi vet enda ikke helt hvor eller når
+- Bidrag til reise. Vi tenker oss ut på en lengre tur igjen om ikke så alt for lenge, men vi vet enda ikke helt hvor eller når. Kontonummer: 6636 13 62188.
 - sengesett i naturmaterialer
 - laken 180 cm og 90 cm
 - [Le Creuset kasserolle 1,5 liter](https://www.lecreuset.no/no_NO/p/kasserolle-stopejern/CI1181.html?dwvar_CI1181_color=volcanic&dwvar_CI1181_size=16cm-l1-5)
 - [Le Creuset gryte 3,3 liter](https://www.lecreuset.no/no_NO/p/rund-gryte-stopejern/CI1177.html?dwvar_CI1177_color=volcanic&dwvar_CI1177_size=22cm-l3-3)
-- Bidrag eller brukt utstyr til hønsegård
+- Bidrag eller brukt utstyr til hønsegård. Kontonummer: 6636 13 62188.
 - Stavmikser
 - Vinglass, for eksempel en [all-round variant](https://www.hadeland.com/products/allround-56-cl-6-pk)
 - [Ølglass - AUgustin pilsglas](https://www.hadeland.com/products/pils-46-cl-2pk)
